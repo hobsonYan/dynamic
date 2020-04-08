@@ -1,7 +1,5 @@
 package com.hobson.api.service;
 
-import org.apache.ibatis.annotations.Mapper;
-
 import java.util.Map;
 
 /**
